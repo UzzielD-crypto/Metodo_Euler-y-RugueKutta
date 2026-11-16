@@ -28,8 +28,7 @@ Ambos se resuelven hasta x = 0.3.
 ## Clonar el repositorio
 
 ```
-git clone https://github.com/[tu-usuario]/[nombre-del-repositorio].git
-cd [nombre-del-repositorio]
+git clone https://github.com/UzzielD-crypto/Metodo_Euler-y-RugueKutta/blob/main/README.md
 ```
 
 ## Compilar
